@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "more-app-icon-1024x1024-2db5tams.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
